@@ -1,0 +1,2 @@
+# Format JSON behavior
+
